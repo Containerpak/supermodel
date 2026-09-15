@@ -4,7 +4,7 @@
   "name": "Supermodel",
   "description": "Sega Model 3 arcade emulator.",
   "version": "0.3a-20260726-git-b7d8acd",
-  "image": "ghcr.io/containerpak/supermodel@sha256:6ffb6a895a166323d276a81b7951af6dabc4f3d3bdd7135d8b8650347234ba97",
+  "image": "ghcr.io/containerpak/supermodel@sha256:28c55240cfdd988e8afba8930af50a1217432dfae7a0ae5d0befe6e4860503a3",
   "binaries": [
     "/usr/bin/supermodel"
   ],
